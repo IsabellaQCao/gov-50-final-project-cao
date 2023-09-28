@@ -1,6 +1,6 @@
 ---
 title: "Gov 50 Final Project"
-author: "Your Name Here"
+author: "Isabella Cao"
 description: "My final project"
 output:
   distill::distill_article:
@@ -11,4 +11,8 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+While I'm definitely not settled on a topic, an area that I would be interested 
+in exploring is civic engagement and political beliefs across demographics. In
+particular, I was considering how exposure to a liberal arts education affected
+voter registration across fields of study or how different factors affect
+naturalization, voter registration, and political leaning of immigrants.
